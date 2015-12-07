@@ -1,0 +1,225 @@
+.nav background{
+opacity: 0.0;
+}
+
+.nav {
+    height: 81px;
+    border-bottom: 1px solid #ffffff;
+}
+
+
+.nav:hover{
+    border-radius: 0px 0px;
+      -webkit-transition-duration: 1s; /* Safari */
+    transition-duration: 1s;
+}
+
+
+.nav li {
+  
+  float: left;
+}
+
+.button {
+    color:  #ffffff;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 25px;
+    background: transparent;
+    border: none;
+    -webkit-transition-duration: 1s; /* Safari */
+    transition-duration: 1s;
+    cursor: pointer;
+   
+}
+.button1:hover {background-color: #ffffff; color: #5a5a5a;} 
+.button2:hover {background-color: #ffffff; color: #5a5a5a;} 
+.button3:hover {background-color: #ffffff; color: #5a5a5a;}  
+.button4:hover {background-color: #ffffff; color: #5a5a5a;}
+.button5:hover {background-color: #ffffff; color: #5a5a5a;} 
+.button7:hover {background-color: #ffffff; color: #5a5a5a;} 
+.button8:hover {background-color: #ffffff; color: #5a5a5a;} 
+.button9:hover {background-color: #ffffff; color: #5a5a5a;} 
+
+
+.jumbotron .container {
+  position: relative;
+  top: 1px
+}
+
+.jumbotron {
+background-image: url("http://hdwgo.com/wp-content/uploads/2015/04/white-bmw-hd-on-road.jpg");  
+background-size: cover;
+position: relative;
+height: 1000px;
+width: 100%;
+background-repeat: no-repeat;
+}
+
+.jumbotron h1 {
+    color: #ffffff;
+    font-size:100px;
+}
+
+.jumbotron p {
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.neighborhood-guides {
+    background-color: #f2f2f2;
+    border-bottom: 5px; 
+    border-top: 5px solid #dbdbdb;
+}
+
+.neighborhood-guides .h2 {
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.neighborhood-guides p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+
+.learn-more {
+  background-color: #d9d9d9;
+
+  
+}
+
+
+
+.learn-more  text {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+  .learn-more .h1 {
+      font-family: 'Shift', sans-serif;
+      font-size: 20px;
+      font-weight:bolder;
+      color: black;
+      background-color:#ffffff;
+  }
+  
+.learn-more .h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  font-style:italic;
+}
+
+.learn-more p {
+    font-family: 'Shift', sans-serif;
+  color: black;
+}
+
+.thumbnail {
+    border: none;
+}
+
+
+.Different-dimensions {
+    height: 750px;
+    background-color: #ffffff;
+}
+
+.css-slideshow{
+  position: relative;
+  max-width: 1024px;
+  max-height: 800px;
+  margin: 5em auto .5em auto;
+  
+}
+.css-slideshow figure{
+  margin: 0;
+  max-width: 495px;
+  height: 370px;
+  background: #000;
+  position: absolute;
+}
+.css-slideshow img{
+  box-shadow: 0 0 2px #666;
+}
+.css-slideshow figcaption{
+  position: absolute;
+  top: 0;
+  color: #fff;
+  background: rgba(0,0,0, .3);
+  font-size: .8em;
+  padding: 8px 12px;
+  opacity: 0;
+  transition: opacity .5s;
+}
+.css-slideshow:hover figure figcaption{
+  transition: opacity .5s;
+  opacity: 1;
+}
+.css-slideshow-attr{
+  max-width: 495px;
+  text-align: right;
+  font-size: .7em;
+  font-style: italic;
+  margin:0 auto;
+}
+.css-slideshow-attr a{
+  color: #666;
+}
+.css-slideshow figure{
+  opacity:0;
+}
+figure:nth-child(1) {
+ animation:   xfade 48s 42s infinite;
+
+}
+figure:nth-child(2) {
+  animation:  xfade 48s 36s infinite;
+}
+figure:nth-child(3) {
+  animation:  xfade 48s 30s infinite;
+}
+figure:nth-child(4) {
+  animation:  xfade 48s 24s infinite;
+}
+figure:nth-child(5) {
+  animation:  xfade 48s 18s infinite;
+}
+figure:nth-child(6) {
+  animation:  xfade 48s 12s infinite;
+}
+figure:nth-child(7) {
+  animation:  xfade 48s 6s infinite;
+}
+figure:nth-child(8) {
+  animation:  xfade 48s 0s infinite;
+}
+
+@keyframes xfade{
+  0%{
+    opacity: 1;
+  }
+  10.5% {
+    opacity: 1;
+  }
+  12.5%{
+    opacity: 0;
+  }
+  98% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.footer {
+ height: 100px;
+ border-top: 1px solid #5a5a5a;
+ margin-left: 150px;
+ margin-right: 150px; 
+}
