@@ -1,0 +1,343 @@
+.info h2{
+    font: color #8c8c8c;
+    font-weight: bold;
+    font-size: 60px;
+    padding: 40px;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.info p{
+    font: color #a6a6a6;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+.footer {
+ height: 100px;
+ border-top: 1px solid #5a5a5a;
+ color: #5a5a5a;
+ margin-left: 150px;
+ margin-right: 150px;
+}
+
+
+
+
+
+
+
+
+.Series {
+background-image: url("http://cdn.bmwblog.com/wp-content/uploads/bmw_5_series_all.jpg");  
+background-size: cover;
+position: relative;
+height: 1000px;
+width: 100%;
+background-repeat: no-repeat;
+}
+
+.Series h1 {
+    color: #ffffff;
+    font-size:100px;
+    font-weight:bold;
+
+}
+
+.Series p {
+  font-size: 30px;
+  color: #ffffff;
+}
+
+.Series-nav background{
+opacity: 0.0;
+}
+
+.Series-nav {
+    height: 80px;
+    border-bottom: 1px solid #ffffff;
+}
+
+
+.Series-nav:hover{
+    border-radius: 0px 0px;
+      -webkit-transition-duration: 1s; /* Safari */
+    transition-duration: 1s;
+}
+
+
+.Series-nav li {
+  
+  float: left;
+}
+
+.Series-button {
+    color:  #ffffff;
+    margin-top: 12px;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 25px;
+    background: transparent;
+    border: none;
+    -webkit-transition-duration: 1s; /* Safari */
+    transition-duration: 1s;
+    cursor: pointer;
+   
+}
+.Series-button1:hover {background-color: #ffffff; color: #5a5a5a;} 
+.Series-button2:hover {background-color: #ffffff; color: #5a5a5a;} 
+.Series-button3:hover {background-color: #ffffff; color: #5a5a5a;} 
+.Series-button4:hover {background-color: #ffffff; color: #5a5a5a;}
+.Series-button5:hover {background-color: #ffffff; color: #5a5a5a;} 
+.Series-button7:hover {background-color: #ffffff; color: #5a5a5a;} 
+.Series-button8:hover {background-color: #ffffff; color: #5a5a5a;} 
+.Series-button9:hover {background-color: #ffffff; color: #5a5a5a;} 
+
+
+
+
+
+
+
+
+.M-Series {
+background-image: url("http://www.bmw.com/_common/shared/newvehicles/mseries/m1coupe/2010/showroom/_img/m_series_m1coupe.jpg");  
+background-size: cover;
+position: relative;
+height: 1000px;
+width: 100%;
+background-repeat: no-repeat;
+}
+
+.M-Series h1 {
+    color: #ffffff;
+    font-size:100px;
+    font-weight:bold;
+
+}
+
+.info-M {
+ font: color #a6a6a6;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.M-Series p {
+  font-size: 30px;
+  color: #ffffff;
+}
+
+.M-Series-nav background{
+opacity: 0.0;
+}
+
+.M-Series-nav {
+    height: 80px;
+    border-bottom: 1px solid #ffffff;
+}
+
+
+.M-Series-nav:hover{
+    border-radius: 0px 0px;
+      -webkit-transition-duration: 1s; /* Safari */
+    transition-duration: 1s;
+}
+
+
+.M-Series-nav li {
+  
+  float: left;
+}
+
+.M-Series-button {
+    color:  #ffffff;
+    margin-top: 12px;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 25px;
+    background: transparent;
+    border: none;
+    -webkit-transition-duration: 1s; /* Safari */
+    transition-duration: 1s;
+    cursor: pointer;
+   }
+
+.M-Series-button1:hover {background-color: #d9d9d9; color: #5a5a5a;} 
+.M-Series-button2:hover {background-color: #d9d9d9; color: #5a5a5a;} 
+.M-Series-button3:hover {background-color: #d9d9d9; color: #5a5a5a;}  
+.M-Series-button4:hover {background-color: #d9d9d9; color: #5a5a5a;}
+.M-Series-button5:hover {background-color: #d9d9d9; color: #5a5a5a;} 
+.M-Series-button7:hover {background-color: #d9d9d9; color: #5a5a5a;} 
+.M-Series-button8:hover {background-color: #d9d9d9; color: #5a5a5a;} 
+.M-Series-button9:hover {background-color: #d9d9d9; color: #5a5a5a;} 
+
+
+
+
+
+
+
+
+.I-Series {
+background-image: url("http://media.autoweek.nl/m/m1my6j7bujli.jpg");  
+background-size: cover;
+position: relative;
+height: 1000px;
+width: 100%;
+background-repeat: no-repeat;
+}
+
+.I-Series h1 {
+    color: #ffffff;
+    font-size:100px;
+    font-weight:bold;
+
+}
+
+.I-Series p {
+  font-size: 30px;
+  color: #ffffff;
+}
+
+.I-Series-nav background{
+opacity: 0.0;
+}
+
+.I-Series-nav {
+    height: 80px;
+    border-bottom: 1px solid #ffffff;
+}
+
+.I-Series-nav:hover{
+    border-radius: 0px 0px;
+      -webkit-transition-duration: 1s; /* Safari */
+    transition-duration: 1s;
+}
+
+.I-Series-nav li {
+  
+  float: left;
+}
+
+.I-Series-button {
+    color:  #ffffff;
+    margin-top: 12px;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 25px;
+    background: transparent;
+    border: none;
+    -webkit-transition-duration: 1s; /* Safari */
+    transition-duration: 1s;
+    cursor: pointer;
+   
+}
+.I-Series-button1:hover {background-color: #ffffff; color: #5a5a5a;} 
+.I-Series-button2:hover {background-color: #ffffff; color: #5a5a5a;} 
+.I-Series-button3:hover {background-color: #ffffff; color: #5a5a5a;}  
+.I-Series-button4:hover {background-color: #ffffff; color: #5a5a5a;}
+.I-Series-button5:hover {background-color: #ffffff; color: #5a5a5a;} 
+.I-Series-button7:hover {background-color: #ffffff; color: #5a5a5a;} 
+.I-Series-button8:hover {background-color: #ffffff; color: #5a5a5a;} 
+.I-Series-button9:hover {background-color: #ffffff; color: #5a5a5a;} 
+
+
+
+
+
+
+
+
+.G-Power {
+background-image: url("http://cdn.bmwblog.com/wp-content/uploads/BMW-M3-GTS-Wallpaper-2911.jpg");  
+background-size: cover;
+position: relative;
+height: 1000px;
+width: 100%;
+background-repeat: no-repeat;
+}
+
+.G-Power h1 {
+    color: #ffffff;
+    font-size:100px;
+    font-weight:bold;
+
+}
+
+.G-Power p {
+  font-size: 30px;
+  color: #ffffff;
+}
+
+.G-Power-nav background{
+opacity: 0.0;
+}
+
+.G-Power-nav {
+    height: 80px;
+    border-bottom: 1px solid #ffffff;
+}
+
+.G-Power-nav:hover{
+    border-radius: 0px 0px;
+      -webkit-transition-duration: 1s; /* Safari */
+    transition-duration: 1s;
+}
+
+.G-Power-nav li {
+  
+  float: left;
+}
+
+.G-Power-button {
+    color:  #ffffff;
+    margin-top: 12px;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 25px;
+    background: transparent;
+    border: none;
+    -webkit-transition-duration: 1s; /* Safari */
+    transition-duration: 1s;
+    cursor: pointer;
+   
+}
+.G-Power-button1:hover {background-color: #ffffff; color: #5a5a5a;} 
+.G-Power-button2:hover {background-color: #ffffff; color: #5a5a5a;} 
+.G-Power-button3:hover {background-color: #ffffff; color: #5a5a5a;}  
+.G-Power-button4:hover {background-color: #ffffff; color: #5a5a5a;}
+.G-Power-button5:hover {background-color: #ffffff; color: #5a5a5a;} 
+.G-Power-button7:hover {background-color: #ffffff; color: #5a5a5a;} 
+.G-Power-button8:hover {background-color: #ffffff; color: #5a5a5a;} 
+.G-Power-button9:hover {background-color: #ffffff; color: #5a5a5a;} 
+
+
+
+
+
+
+.Series-table th {
+    padding: 8px;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid black;
+    font-weight: bold;
+ 
+}
+.Series-table td {
+
+     padding: 8px;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid black;
+    font-weight: bold;
+}
+
+
